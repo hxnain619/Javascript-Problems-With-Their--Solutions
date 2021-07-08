@@ -1,7 +1,7 @@
 # Javascript-Problems-With-Their-Solutions
 Various JavaScript issues have been asked by several firms
 
-You can run those live on [replit.com](Replit)
+You can run those live on [Replit](replit.com)
 
 # 1: For BestBuySellTime 
 [Click Here](https://replit.com/@hxnain619/best-buy-sell-time#index.js) 
