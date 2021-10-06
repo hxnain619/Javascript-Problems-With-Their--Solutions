@@ -13,7 +13,7 @@ You can run those live on [Replit](replit.com)
 # 3: For TweetCount 
 [Click Here](https://replit.com/@hxnain619/tweet-count#index.js)
 
-# HackerRank Problems
+# HackerRank Problems With Their Solutions
 
 # 4: Dynamic Array 2D
 # 5: Angry Professor
