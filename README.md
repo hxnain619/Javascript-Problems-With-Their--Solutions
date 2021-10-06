@@ -12,3 +12,10 @@ You can run those live on [Replit](replit.com)
 
 # 3: For TweetCount 
 [Click Here](https://replit.com/@hxnain619/tweet-count#index.js)
+
+# HackerRank Problems
+
+# 4: Dynamic Array 2D
+# 5: Angry Professor
+# 6: Beautiful Days at the Movies
+# 7: Sales By Match
