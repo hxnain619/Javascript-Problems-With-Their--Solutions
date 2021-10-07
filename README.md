@@ -14,6 +14,7 @@ You can run those live on [Replit](replit.com)
 [Click Here](https://replit.com/@hxnain619/tweet-count#index.js)
 
 # HackerRank Problems With Their Solutions
+HackerRank Problems with their solutions, from easy to hard
 
 # 4: Dynamic Array 2D
 # 5: Angry Professor
