@@ -19,3 +19,5 @@ You can run those live on [Replit](replit.com)
 # 5: Angry Professor
 # 6: Beautiful Days at the Movies
 # 7: Sales By Match
+# 8: Electronic Shop
+# 9: Counting Valleys
